@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Webservice.load&lt;A&gt;(resource:completion:):Webservice.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "resource.body">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Webservice.load&lt;A&gt;(resource:completion:):Webservice.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddOrderViewController.save():AddOrderViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedType">
+            </PersistentString>
+            <PersistentString
+               value = "self.vm.selectedType">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "vm.types[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
